@@ -1,6 +1,7 @@
 ---
 title: 'Blog Post number 1'
 date: 2012-08-14
+collection: background
 permalink: /background/background
 tags:
   - cool posts
