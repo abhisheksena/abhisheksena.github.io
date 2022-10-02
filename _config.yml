@@ -85,7 +85,7 @@ author:
   bio              : "Postdoctoral Research Fellow in Mathematical Epidemiology"
   location         : "Goerlitz, Germany"
   employer         : "CASUS"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UXhvc-sAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Abhishek-Senapati"
