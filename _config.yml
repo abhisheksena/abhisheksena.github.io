@@ -82,9 +82,10 @@ analytics:
 author:
   name             : "Abhishek Senapati"
   avatar           : "pic_personal.jpg"
-  bio              : "Postdoctoral Research Fellow in Infectious Disease Modelling"
+  bio              : "Infectious Disease Modeller <br> <br> Research Fellow at NUS, Singapore, <a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a> & <a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a>"
+"
   location         : "Singapore"
-  employer         : "SSHSPH, NUS, Singapore"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UXhvc-sAAAAJ&hl=en"
   email            :
