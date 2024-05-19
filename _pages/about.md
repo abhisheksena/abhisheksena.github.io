@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am a postdoctoral research fellow at NUS, Singapore, working in Saw Swee Hock School of Public Health since 2023.
 
-My primary research interest 
+My primary research interest is in the interface of infection disease transmission and mathematical model. 
 
 <!---A data-driven personal website
 ======
