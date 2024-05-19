@@ -1,8 +1,12 @@
 ---
 layout: archive
+permalink: /
 title: "Publications"
 permalink: /publications/
 author_profile: true
+redirect_from: 
+  - /publication/
+  - /publication.html
 ---
 
 {% if author.googlescholar %}
