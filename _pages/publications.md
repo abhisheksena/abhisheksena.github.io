@@ -1,5 +1,5 @@
 ---
-<--! layout: archive -->
+
 permalink: /
 title: "Publications"
 permalink: /publications/
@@ -8,7 +8,7 @@ redirect_from:
   - /publication/
   - /publication.html
 ---
-
+<--! layout: archive -->
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{https://scholar.google.com.sg/citations?user=UXhvc-sAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
 {% endif %}
