@@ -1,5 +1,5 @@
 ---
-title: "Personnel staffing and scheduling during disease outbreaks: A contact network-based analysis"
+title: 'Personnel staffing and scheduling during disease outbreaks: A contact network-based analysis'
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1'
 date: 2024-07-01
