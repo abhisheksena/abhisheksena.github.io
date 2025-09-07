@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Personnel staffing and scheduling during disease outbreaks: A contact network-based analysis"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2009-10-01-paper-title-number-1'
+date: 2024-07-01
+venue: 'Computers & Industrial Engineering'
+paperurl: '[https://www.sciencedirect.com/science/article/pii/S036083522400233X/pdfft?md5=96be9cc1aef446fd81bbe973f0987adf&pid=1-s2.0-S036083522400233X-main.pdf]'
+link: 'https://doi.org/10.1016/j.cie.2024.110112'
+citation: ''<b>Edward M. Hill</b>, Frances E. Griffiths, Thomas House. (2015). &quot;Spreading of healthy mood in adolescent social networks.&quot; <i>Proceedings of the Royal Society B</i>, <b>282</b>(1813): 20151180. doi:10.1098/rspb.2015.1180.''
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
