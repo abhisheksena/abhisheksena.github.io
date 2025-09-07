@@ -1,7 +1,7 @@
 ---
 title: "Personnel staffing and scheduling during disease outbreaks: A contact network-based analysis"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2024_personal_staffing_contact_network_computer_industrial_engineering
 date: 2024-07-01
 venue: 'Computers & Industrial Engineering'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S036083522400233X/pdfft?md5=96be9cc1aef446fd81bbe973f0987adf&pid=1-s2.0-S036083522400233X-main.pdf'
