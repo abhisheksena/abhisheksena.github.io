@@ -13,7 +13,7 @@ title                    : "Abhishek Senapati"
 title_separator          : "-"
 name                     : &name "Abhishek Senapati"
 description              : &description "Research Fellow, SSHSPH, NUS, Singapore"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://mousumi3104.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://abhisheksena.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "pic_personal.jpg"
-  name             : "Mousumi Roy"
+  name             : "Abhishek Senapati"
   pronouns         : # example: "she/her"  
-  bio              : "Infectious Disease Modeller <br> <br> Research Fellow at <a style='color: black;' href='https://sph.nus.edu.sg/'>, Saw Swee Hock School of Public Health (SSHSPH)</a><a style='color: black;' href='http://nus.edu.sg'>NUS, Singapore"
+  bio              : "Infectious Disease Modeller <br> <br> Research Fellow at <a style='color: black;' href='https://sph.nus.edu.sg/'> Saw Swee Hock School of Public Health (SSHSPH)</a><a style='color: black;' href='http://nus.edu.sg'>NUS, Singapore"
   location         : "Singapore"
   employer         : "National University of Singapore"
   uri              : # URL
