@@ -5,7 +5,7 @@ main:
 #  - title: "Background"
  #   url: /background/    
 
-  - title: "Research"
+  - title: "Research Interest"
     url: /research/    
     
   #- title: "Portfolio"
@@ -14,8 +14,8 @@ main:
 #   - title: "Blog Posts"
 #     url: /year-archive/
     
-  - title: "Useful Links"
-    url: /useful-links/
+  - title: "Resources"
+    url: /resources/
     
   - title: "Contact"
     url: /contact/
