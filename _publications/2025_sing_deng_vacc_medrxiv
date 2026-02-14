@@ -4,6 +4,7 @@ collection: publications
 permalink: /publications/2025_sing_deng_vacc_medrxiv
 date: 2025-10-2
 link: 'https://www.medrxiv.org/content/10.1101/2025.10.01.25337064v1'
+github: 'https://github.com/ID-Modelling-Lab/singapore_dengue_vaccination'
 citation: '<b>A. Senapati</b>, T-L. Thein, Y-S Leo, H. E. Clapham. (2025). &quot;Adult dengue vaccination in Singapore: A modelling study to inform policy.&quot; <i>
 medRxiv</i>, 2025.10. 01.25337064. doi:10.1101/2025.10.01.25337064.'
 ---
