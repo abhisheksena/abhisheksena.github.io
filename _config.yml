@@ -156,7 +156,7 @@ analytics:
   google:
     tracking_id          :
 
-
+enable_dark_mode: true
 # Reading Files
 include:
   - .htaccess
