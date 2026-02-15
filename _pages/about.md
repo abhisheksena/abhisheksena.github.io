@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: Hi!"
+excerpt: "Hi!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Hi! I am a postdoctoral research fellow at NUS, Singapore, working in Saw Swee Hock School of Public Health since 2023.
+I am a postdoctoral research fellow at NUS, Singapore, working in Saw Swee Hock School of Public Health since 2023.
 
 My primary research interest is in the interface of infection disease transmission and mathematical model. 
 
