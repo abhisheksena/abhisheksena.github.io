@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a postdoctoral research fellow at NUS, Singapore, working in Saw Swee Hock School of Public Health since 2023.
 
-My primary research interest is in the interface of infection disease transmission and mathematical model. I aim to bridge theoretical modelling with real-world public health applications to address key questions relevant to disease transmission and control. By integrating approaches such as dynamical systems theory, Bayesian inference, optimal control, and machine learning, I aim to generate quantitative insights that can inform evidence-based public health decisions. I have designed and applied modelling frameworks to elucidate transmission mechanisms and optimise control strategies for multiple diseases, including dengue, cholera, and COVID-19.
+My primary research interest is in the interface of infection disease transmission and mathematical model. I aim to bridge theoretical modelling with real-world public health applications to address key questions relevant to disease transmission and control. By integrating approaches such as dynamical systems theory, Bayesian inference, optimal control, and machine learning, I have been trying to generate quantitative insights that can inform evidence-based public health decisions. I have designed and applied modelling frameworks to elucidate transmission mechanisms and optimise control strategies for multiple diseases, including dengue, cholera, and COVID-19.
 
 <!---A data-driven personal website
 ======
