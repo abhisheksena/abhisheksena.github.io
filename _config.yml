@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pic_personal.jpg"
+  avatar           : "015A2714.JPG" #"pic_personal.jpg"
   name             : "Abhishek Senapati"
   pronouns         : # example: "she/her"  
   bio              : "Infectious Disease Modeller <br> <br> Research Fellow at <a style='color: black;' href='https://sph.nus.edu.sg/'> Saw Swee Hock School of Public Health (SSHSPH)</a><a style='color: black;' href='http://nus.edu.sg'>NUS, Singapore"
@@ -41,7 +41,7 @@ author:
   orcid            : "http://orcid.org/my-orcid?orcid=0000-0003-1572-2658"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Abhishek-Senapati"# URL
+  researchgate     : "https://www.researchgate.net/profile/Abhishek-Senapati" # URL
   scopus           : # URL
 
   # Repositories and software development
