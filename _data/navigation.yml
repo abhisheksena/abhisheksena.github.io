@@ -5,17 +5,17 @@ main:
 #  - title: "Background"
  #   url: /background/    
 
-  - title: "Research"
+  - title: "Research Interest"
     url: /research/    
     
   #- title: "Portfolio"
    # url: /portfolio/
         
-#   - title: "Blog Posts"
-#     url: /year-archive/
+  - title: "CV"
+  url: /cv/
     
-  - title: "Useful Links"
-    url: /useful-links/
+  - title: "Resources"
+    url: /resources/
     
   - title: "Contact"
     url: /contact/
