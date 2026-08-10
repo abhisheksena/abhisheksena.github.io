@@ -4,8 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-[**Dengue transmission and intervention modelling**]({{ site.baseurl }}{% link _research_page/dengue_modelling.md %}){:target="_blank"} 
-Understanding dengue transmission dynamics and evaluating vaccination, Wolbachia-based vector control, and other intervention strategies across different epidemiological settings.
+[**Dengue transmission and intervention modelling**]({{ site.baseurl }}{% link _research_page/dengue_modelling.md %}){:target="_blank"} Understanding dengue transmission dynamics and evaluating vaccination, Wolbachia-based vector control, and other intervention strategies across different epidemiological settings.
 
 [**Spatial transmission dynamics and human mobility**]
 
